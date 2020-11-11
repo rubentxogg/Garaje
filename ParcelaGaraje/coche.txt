@@ -2,3 +2,4 @@
 
 Número de puertas del coche: 4.
 Número de plazas del coche: 5.
+Color: rojo.
